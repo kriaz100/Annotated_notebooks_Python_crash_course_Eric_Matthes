@@ -5,4 +5,3 @@ Google Colab notebooks provide not only a highly interactive environment for lea
 
 Moreover, I have collected several scripts that fall under the same topic/chapter into one notebook. Every notebook lists the .py files it contains, so you dont loose track of things. This is done with a view to reduce the clutter and help you focus all your attention on learning. 
 
-Each chapter has two notebooks: first note book contains programs discussed in the chapter, and the second notebook implements solutions to the exercises. Both notebook names refer to chapter number. Example: chapter_09_classes and chapter_09_Exercises 
