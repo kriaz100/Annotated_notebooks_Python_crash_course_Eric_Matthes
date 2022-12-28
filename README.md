@@ -1,7 +1,8 @@
 # Python_crash_course_notebooks
 ### See repo pcc2 - original python crash course notebooks
 
-Google Colab notebooks provide not only a highly interactive environment for learning python, you can also use compute resource for free. Although the scripts included are small, running them in colab notebooks is much more convenient that running .py files. Many machine learning workflows involve prototyping ML/DL models in notebooks. So as you learn python, getting used to working in colab and the cloud environment has its advantages.
+This repository offers annotated and consolidated Google Colab notebooks for the core chapters of "Python Crash Course" by Eric Matthes. 
 
-Moreover, I have collected several scripts that fall under the same topic/chapter into one notebook. Every notebook lists the .py files it contains, so you dont loose track of things. This is done with a view to reduce the clutter and help you focus all your attention on learning. 
+Google Colab notebooks provide a seamless and convenient environment for learning and prototyping Python, including machine learning and deep learning models. By consolidating several scripts that cover the same topic or chapter into a single notebook, this repository allows you to focus on learning without being overwhelmed by clutter. One of the main benefits of using Colab notebooks is the ability to access free compute resources.
 
+In addition to helping you stay organized and focused on learning, the annotations in these notebooks can be useful for quickly reviewing the materials after you have read the book. The annotations offer concise descriptions of each code cell, allowing you to quickly refresh your knowledge without having to read through the entire chapter in the book. This makes the repository a valuable resource for quick revision of selected topics that you may want to refresh your understanding of.
