@@ -1,4 +1,4 @@
-# Python_crash_course_notebooks
+# Annotated_notebooks_Python_crash_course_Eric_Matthes
 ### See repo pcc2 - original python crash course notebooks
 
 This repository offers annotated and consolidated Google Colab notebooks for the core chapters of "Python Crash Course" by Eric Matthes. 
